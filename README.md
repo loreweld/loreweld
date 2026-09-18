@@ -1,27 +1,33 @@
 # Merhaba, ben kuzgunakademi 👋
 
-Buraya geldiğine göre üzerinde çalıştığım projeleri görüntülemek istiyorsun. Şu anda üzerinde çalıştığım projelerin listesine aşağıdan, profil sayfamdaki **dashboard** bölümünden veya sapıtığım günlerde yazdığım kodlara göz atarak ulaşabilirsin.
+Yerel (offline-first) **AI asistan sistemleri** ve **AI destekli geliştirme araçları** üzerine çalışıyorum. Kod tabanını anlayan asistanlar, yapay zekâ şahsiyetlerinin taşınması ve mimari analiz araçları ilgi alanımın merkezinde.
+
+> Felsefem: *Haritayı önce çıkar, sonra oku; bilgiyi tek yerde tut; gerçeği LLM'e değil, deterministik motora emanet et.*
 
 ---
 
-<!-- girilmedi -->
-
 ## 🛠️ Üzerinde çalıştığım teknolojiler
-
-> Bu bölüm projelere göre güncellenecek.
 
 - 🐍 Python
 - 🧠 Makine Öğrenmesi / Derin Öğrenme
-- 🤖 Büyük Dil Modelleri (LLM) ve RAG sistemleri
+- 🤖 Büyük Dil Modelleri (LLM) — `llama.cpp`, GGUF, RAG, embedding
 - 🗄️ Veri Bilimi ve analiz
+- 🖥️ PySide6 / Tkinter masaüstü uygulamaları
+- 🔍 AST tabanlı statik analiz ve kod mimarisi haritalama
+- 🗃️ ChromaDB, SQLite, vektör arama
 
 ---
 
 ## 📌 Projeler
 
-> Proje listesi yakında. Üzerinde çalıştığım projeleri ayrı ayrı repo'lar halinde buraya ekleyeceğim.
+| Proje | Açıklama | Durum |
+|---|---|---|
+| [**REMEMBER_EVA_AI**](https://github.com/kuzgunakademi/REMEMBER_EVA_AI) | Modüler AI masaüstü asistanı — PySide6 modern UI, async Factory deseni, Fast/Slow Path mesaj işleme, RAG destekli bellek | 🗝️ |
+| [**OGMA**](https://github.com/kuzgunakademi/OGMA) | Proje Analiz Asistanı — Hibrit AST + LLM kod mimarisi analiz aracı | 🌍 |
+| [**AI_HUMAN_DESIGN**](https://github.com/kuzgunakademi/AI_HUMAN_DESIGN) | AI Zihin/Şahsiyet Transferi — 12 katmanlı persona çıkarımı + 5 aşamalı model pipeline | 🗝️ |
+| [**RAVENART_DEVKIT**](https://github.com/kuzgunakademi/RAVENART_DEVKIT) | AI Kod Geliştirme Destek Sistemi — stdlib-only, mimari haritalama, teknik borç ve kalite analizi | 🌍 |
 
-<!-- projeler -->
+> 🗝️ = Kişisel (private) · 🌍 = Herkese açık (public)
 
 ---
 
@@ -33,8 +39,8 @@ Buraya geldiğine göre üzerinde çalıştığım projeleri görüntülemek ist
 
 ## 🌐 Bağlantılar
 
-<!-- sosyal -->
+- **GitHub:** [kuzgunakademi](https://github.com/kuzgunakademi)
 
 ---
 
-*Bu profil, [opencode](https://opencode.ai) aracılığıyla otomatik olarak 18.09.2026 tarihinde oluşturulmuştur.*
+*Bu profil [opencode](https://opencode.ai) ile hazırlanmıştır.*
