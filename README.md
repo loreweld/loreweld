@@ -12,6 +12,7 @@ loreweld.ai — Bilgiyi tek parçaya kaynaklıyoruz: AI şahsiyetleri, sohbet ge
 ## 🛠️ Çalışma Alanlarım
 
 - 🧠 Yerel (offline-first) AI asistan sistemleri — `llama.cpp`, GGUF, RAG
+- ⚒️ Yerel model forge stüdyoları — GGUF analiz, abliteration, QLoRA uzmanlaştırma
 - 🗣️ AI şahsiyet ve ilişki transferi — 12 katmanlı persona çıkarımı
 - 🔍 AST tabanlı kod mimarisi haritalama ve teknik borç analizi
 - 🏗️ AI destekli geliştirme araçları (stdlib-only)
@@ -28,6 +29,7 @@ loreweld.ai — Bilgiyi tek parçaya kaynaklıyoruz: AI şahsiyetleri, sohbet ge
 | [**AI_HUMAN_DESIGN**](https://github.com/loreweld/AI_HUMAN_DESIGN) | AI Zihin/Şahsiyet Transferi — 12 katmanlı persona + 5 aşamalı pipeline | 🗝️ |
 | [**RAVENART_DEVKIT**](https://github.com/loreweld/RAVENART_DEVKIT) | AI Geliştirme Destek Sistemi — mimari haritalama, teknik borç, kalite | 🌍 |
 | [**Twinigma**](https://github.com/loreweld/Twinigma) | Benzerlik bazlı casting başvuru platformu — Expo + Supabase | 🗝️ |
+| [**Lugh AI Forge**](https://github.com/loreweld/Lugh-AI-Forge) | Model Transformation Studio — GGUF analiz, abliteration, QLoRA, doğrulama | 🗝️ |
 
 > 🗝️ = Kişisel (private) · 🌍 = Herkese açık (public)
 
