@@ -1,20 +1,21 @@
-# Merhaba, ben kuzgunakademi 👋
+# LoreWeld ⚒️
 
-Yerel (offline-first) **AI asistan sistemleri** ve **AI destekli geliştirme araçları** üzerine çalışıyorum. Kod tabanını anlayan asistanlar, yapay zekâ şahsiyetlerinin taşınması ve mimari analiz araçları ilgi alanımın merkezinde.
+> **Lore** — kadim bilgi, miras, anlatı.
+> **Weld** — kaynak tutmak. Demircinin metali alevde tek parça hâline getirmesi.
 
-> Felsefem: *Haritayı önce çıkar, sonra oku; bilgiyi tek yerde tut; gerçeği LLM'e değil, deterministik motora emanet et.*
+**"Hiçbir parça işe yaramaz; hiçbir parça kaybolmaz."**
+
+loreweld.ai — Bilgiyi tek parçaya kaynaklıyoruz: AI şahsiyetleri, sohbet geçmişleri ve kod mimarileri birbirinden kopuk parçalar değil; doğru ısı ve doğru vuruşla birleşen tek bir bütün.
 
 ---
 
-## 🛠️ Üzerinde çalıştığım teknolojiler
+## 🛠️ Çalışma Alanlarım
 
-- 🐍 Python
-- 🧠 Makine Öğrenmesi / Derin Öğrenme
-- 🤖 Büyük Dil Modelleri (LLM) — `llama.cpp`, GGUF, RAG, embedding
-- 🗄️ Veri Bilimi ve analiz
-- 🖥️ PySide6 / Tkinter masaüstü uygulamaları
-- 🔍 AST tabanlı statik analiz ve kod mimarisi haritalama
-- 🗃️ ChromaDB, SQLite, vektör arama
+- 🧠 Yerel (offline-first) AI asistan sistemleri — `llama.cpp`, GGUF, RAG
+- 🗣️ AI şahsiyet ve ilişki transferi — 12 katmanlı persona çıkarımı
+- 🔍 AST tabanlı kod mimarisi haritalama ve teknik borç analizi
+- 🏗️ AI destekli geliştirme araçları (stdlib-only)
+- 📱 Expo / React Native uygulamaları + Supabase
 
 ---
 
@@ -22,25 +23,29 @@ Yerel (offline-first) **AI asistan sistemleri** ve **AI destekli geliştirme ara
 
 | Proje | Açıklama | Durum |
 |---|---|---|
-| [**REMEMBER_EVA_AI**](https://github.com/kuzgunakademi/REMEMBER_EVA_AI) | Modüler AI masaüstü asistanı — PySide6 modern UI, async Factory deseni, Fast/Slow Path mesaj işleme, RAG destekli bellek | 🗝️ |
-| [**OGMA**](https://github.com/kuzgunakademi/OGMA) | Proje Analiz Asistanı — Hibrit AST + LLM kod mimarisi analiz aracı | 🌍 |
-| [**AI_HUMAN_DESIGN**](https://github.com/kuzgunakademi/AI_HUMAN_DESIGN) | AI Zihin/Şahsiyet Transferi — 12 katmanlı persona çıkarımı + 5 aşamalı model pipeline | 🗝️ |
-| [**RAVENART_DEVKIT**](https://github.com/kuzgunakademi/RAVENART_DEVKIT) | AI Kod Geliştirme Destek Sistemi — stdlib-only, mimari haritalama, teknik borç ve kalite analizi | 🌍 |
+| [**REMEMBER_EVA_AI**](https://github.com/loreweld/REMEMBER_EVA_AI) | Modüler AI masaüstü asistanı — PySide6, async Factory, Fast/Slow Path, RAG bellek | 🗝️ |
+| [**OGMA**](https://github.com/loreweld/OGMA) | Proje Analiz Asistanı — Hibrit AST + LLM mimari analiz | 🌍 |
+| [**AI_HUMAN_DESIGN**](https://github.com/loreweld/AI_HUMAN_DESIGN) | AI Zihin/Şahsiyet Transferi — 12 katmanlı persona + 5 aşamalı pipeline | 🗝️ |
+| [**RAVENART_DEVKIT**](https://github.com/loreweld/RAVENART_DEVKIT) | AI Geliştirme Destek Sistemi — mimari haritalama, teknik borç, kalite | 🌍 |
+| [**Twinigma**](https://github.com/loreweld/Twinigma) | Benzerlik bazlı casting başvuru platformu — Expo + Supabase | 🗝️ |
 
 > 🗝️ = Kişisel (private) · 🌍 = Herkese açık (public)
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 İstatistikler
 
-![kuzgunakademi'nin GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=kuzgunakademi&show_icons=true&theme=gotham&locale=tr)
+![loreweld'in GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=loreweld&show_icons=true&theme=gotham&locale=tr)
 
 ---
 
 ## 🌐 Bağlantılar
 
-- **GitHub:** [kuzgunakademi](https://github.com/kuzgunakademi)
+- **GitHub:** [loreweld](https://github.com/loreweld)
+- **Web:** [loreweld.ai](https://loreweld.ai)
 
 ---
 
-*Bu profil [opencode](https://opencode.ai) ile hazırlanmıştır.*
+© 2026 **İlker Can Karagülle** · [Loreweld AI](https://loreweld.ai)
+
+*Profil [opencode](https://opencode.ai) ile LoreWeld markası altında yapılandırılmıştır.*
