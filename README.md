@@ -24,12 +24,14 @@ loreweld.ai — Bilgiyi tek parçaya kaynaklıyoruz: AI şahsiyetleri, sohbet ge
 
 | Proje | Açıklama | Durum |
 |---|---|---|
+<!-- PROJELER-BASLANGIC -->
 | [**REMEMBER_EVA_AI**](https://github.com/loreweld/REMEMBER_EVA_AI) | Modüler AI masaüstü asistanı — PySide6, async Factory, Fast/Slow Path, RAG bellek | 🗝️ |
 | [**OGMA**](https://github.com/loreweld/OGMA) | Proje Analiz Asistanı — Hibrit AST + LLM mimari analiz | 🌍 |
 | [**AI_HUMAN_DESIGN**](https://github.com/loreweld/AI_HUMAN_DESIGN) | AI Zihin/Şahsiyet Transferi — 12 katmanlı persona + 5 aşamalı pipeline | 🗝️ |
 | [**RAVENART_DEVKIT**](https://github.com/loreweld/RAVENART_DEVKIT) | AI Geliştirme Destek Sistemi — mimari haritalama, teknik borç, kalite | 🌍 |
 | [**Twinigma**](https://github.com/loreweld/Twinigma) | Benzerlik bazlı casting başvuru platformu — Expo + Supabase | 🗝️ |
-| [**Lugh AI Forge**](https://github.com/loreweld/Lugh-AI-Forge) | Model Transformation Studio — GGUF analiz, abliteration, QLoRA, doğrulama | 🗝️ |
+| [**Lugh-AI-Forge**](https://github.com/loreweld/Lugh-AI-Forge) | Model Transformation Studio — GGUF analiz, abliteration, QLoRA, doğrulama | 🗝️ |
+<!-- PROJELER-BITIS -->
 
 > 🗝️ = Kişisel (private) · 🌍 = Herkese açık (public)
 

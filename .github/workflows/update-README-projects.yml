@@ -1,0 +1,41 @@
+name: Profil tablosunu guncelle
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/**"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile-table:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Proje tablosunu yeniden uret
+        run: node .github/scripts/update-profile-table.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Degisiklik varsa commit + push
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "loreweld"
+            git config user.email "226185410+loreweld@users.noreply.github.com"
+            git add README.md
+            git commit -m "Profil tablosu otomatik guncellendi"
+            git push
+          else
+            echo "Degisiklik yok, commit atlanıyor."
+          fi
